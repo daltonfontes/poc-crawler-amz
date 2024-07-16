@@ -17,12 +17,12 @@ Utilização de Puppeteer:
 Clone o repositório:
 
 ~~~bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/daltonfontes/poc-crawler-amz
 ~~~
 Instale as dependências:
 
 ~~~bash
-cd nome-do-repositorio
+cd poc-crawler-amz
 npm install   # ou yarn install
 ~~~
 Execução
